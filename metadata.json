@@ -1,0 +1,6 @@
+{
+  "name": "TIMAH ERC-20 Token Suite",
+  "description": "Smart Contract ERC-20 TIMAH dengan OpenZeppelin v5, Minting Whitelist, Burning, Emergency Pause, Reentrancy Guard, Manajemen Akses RBAC, Real-time Anomaly Detection & Dashboard Analitik Visual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
